@@ -1,0 +1,14 @@
+{
+  "name": "discordjs-bot-v6",
+  "version": "15.0.0",
+  "description": "DBB Discord.js V13 Altyapı",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DBB",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.16.0"
+  }
+}
